@@ -1,0 +1,12 @@
+Dear analysis team,
+I’m Dr. Trang at Fookla University. Our team studies risk factors for COVID-19 diagnosis. We obtained some data from the Israeli Ministory of Health. The dataset contains initial records on all residents who were tested for COVID-19 through the nation, with variables related to symptomology. It’s commonly thought that all these symptoms are potential indicators of COVID-19, but we do not know how strongly each of these symptoms relate to diagnosis.
+We would like you to build a prediction model to determine which demographic and symptom variables are related to COVID-19 diagnosis. Also please present to us information about how well your model is able to diagnose individuals.
+Here are some specifics we’d also like to know:
+•	Which symptom most highly predicts COVID-19 diagnosis?
+•	Instead of using all the symptom variables, what if we just asked individuals, “Do you have any of the following: cough, fever, sore throat, shortness of breath, or headache?” and use that variable in the model instead?
+•	Could you also do the same approach again but only on individuals less than 60 years of age? (Most of our student population is <60 years old.)
+•	Is it possible for this model to correctly identify 99.5% of all individuals who actually have COVID-19?
+•	Does the predictive power of “test_indication” increase or decrease as time goes on? 
+We’ll attach the data dictionary below. Also, we heard that you like programming in Stata but only have the CSV sheet.
+By the way, we’d also be really impressed if you could somehow make a graph of the daily test positivity rate (# positive tests / # total tests) over the study period.
+We look forward to your presentation.
