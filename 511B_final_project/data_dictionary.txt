@@ -1,0 +1,10 @@
+Variable	Definition	Values
+Gender		Male/female
+Age_60_and_above	Age >= 60 years	1=yes, 0=no
+Cough	Presence of cough	1=yes, 0=no
+Fever	Presence of fever >100F	1=yes, 0=no
+Sore_throat	Presence of sore throat	1=yes, 0=no
+Head_ache	Presence of recent headache	1=yes, 0=no
+Shortness_of_breath	Shortness of breath	1=yes, 0=no
+Test_indication	History of possible exposure	Abroad = traveled abroad, Contact with confirmed = contact with confirmed case, Other = other
+Corona_result	Result of COVID-19 test	Negative/positive
